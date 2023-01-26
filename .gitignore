@@ -25,3 +25,5 @@ yarn-error.log*
 /pages/firebase.js
 
 firebase-debug.log
+
+.env
